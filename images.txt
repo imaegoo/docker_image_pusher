@@ -9,3 +9,4 @@ vaultwarden/server
 photoprism/photoprism
 mariadb:11
 wordpress
+--platform linux/arm64/v8 golang:1.19
