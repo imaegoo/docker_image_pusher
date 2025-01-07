@@ -1,5 +1,6 @@
 --platform linux/arm64/v8 caddy
 --platform linux/arm64 codercom/code-server
+--platform linux/arm64 jeessy/ddns-go
 --platform linux/arm64 fatedier/frpc:v0.61.1
 --platform linux/arm64 hacn/hacn:stable
 --platform linux/arm64/v8 mariadb:11
