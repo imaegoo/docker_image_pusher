@@ -4,6 +4,7 @@
 --platform linux/arm64 fatedier/frpc:v0.61.1
 gitlab/gitlab-ce:latest
 --platform linux/arm64 hacn/hacn:stable
+--platform linux/arm64 dko0/lsky-pro
 --platform linux/arm64/v8 mariadb:11
 --platform linux/arm64 idootop/mi-gpt
 --platform linux/arm64 imaegoo/twikoo
