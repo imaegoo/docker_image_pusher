@@ -1,3 +1,4 @@
+--platform linux/arm64/v8 photoprism/photoprism
 --platform linux/arm64/v8 caddy
 --platform linux/arm64 codercom/code-server
 --platform linux/arm64 jeessy/ddns-go
