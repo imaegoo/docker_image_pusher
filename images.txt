@@ -1,4 +1,4 @@
-gitlab/gitlab-ce:14.10.5-ce.0
+--platform linux/arm64 docker.gitea.com/gitea:1
 --platform linux/arm64/v8 photoprism/photoprism
 --platform linux/arm64/v8 caddy
 caddy
