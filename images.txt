@@ -1,4 +1,5 @@
 --platform linux/arm64 diygod/rsshub:chromium-bundled
+--platform linux/arm64/v8 redis:alpine
 --platform linux/arm64/v8 photoprism/photoprism
 --platform linux/arm64/v8 caddy
 caddy
