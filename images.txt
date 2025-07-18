@@ -1,6 +1,13 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform linux/arm64 fatedier/frpc:v0.63.0
+--platform linux/arm64 diygod/rsshub:chromium-bundled
+--platform linux/arm64/v8 photoprism/photoprism
+--platform linux/arm64/v8 caddy
+--platform linux/arm64 codercom/code-server
+--platform linux/arm64 jeessy/ddns-go
+--platform linux/arm64 hacn/hacn:stable
+--platform linux/arm64 dko0/lsky-pro
+--platform linux/arm64/v8 mariadb:11
+--platform linux/arm64 imaegoo/twikoo
+--platform linux/arm64 vaultwarden/server
+--platform linux/arm64/v8 wordpress:fpm
+--platform linux/arm64 neosmemo/memos:stable
