@@ -1,5 +1,4 @@
---platform linux/arm64 youshandefeiyang1/allinone
---platform linux/arm64 guovern/iptv-api
+--platform linux/arm64 openlistteam/openlist
 --platform linux/arm64/v8 duplicati/duplicati
 --platform linux/arm64 fatedier/frpc:v0.63.0
 --platform linux/arm64 diygod/rsshub:chromium-bundled
