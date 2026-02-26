@@ -1,3 +1,4 @@
+--platform linux/arm64 imaegoo/zbak
 --platform linux/arm64/v8 node:22-slim
 --platform linux/arm64/v8 eclipse-temurin:8-jdk
 --platform linux/arm64 openlistteam/openlist
