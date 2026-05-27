@@ -1,3 +1,4 @@
+--platform linux/arm64 nousresearch/hermes-agent
 --platform linux/arm64 musistudio/claude-code-router
 --platform linux/arm64 imaegoo/zbak
 --platform linux/arm64 openlistteam/openlist
