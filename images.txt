@@ -1,4 +1,4 @@
---platform linux/arm64 calciumion/new-api
+--platform linux/arm64 diegosouzapw/omniroute
 --platform linux/arm64 imaegoo/twikoo
 --platform linux/arm64 vaultwarden/server
 --platform linux/arm64 openlistteam/openlist
