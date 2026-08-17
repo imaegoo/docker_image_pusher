@@ -1,8 +1,7 @@
+--platform linux/arm64 calciumion/new-api
 --platform linux/arm64 imaegoo/twikoo
---platform linux/arm64 vaultwarden/server:testing
---platform linux/arm64/v8 eclipse-temurin:17-jre
+--platform linux/arm64 vaultwarden/server
 --platform linux/arm64 openlistteam/openlist
---platform linux/arm64/v8 duplicati/duplicati
 --platform linux/arm64 fatedier/frpc:v0.63.0
 --platform linux/arm64 diygod/rsshub:chromium-bundled
 --platform linux/arm64/v8 photoprism/photoprism
@@ -11,5 +10,3 @@
 --platform linux/arm64 hacn/hacn:stable
 --platform linux/arm64 dko0/lsky-pro
 --platform linux/arm64/v8 mariadb:11
---platform linux/arm64/v8 wordpress:fpm
---platform linux/arm64 neosmemo/memos:stable
