@@ -1,4 +1,4 @@
---platform linux/arm64 ghcr.io/imaegoo/atomcode-server
+--platform linux/arm64 cnluminous/atom2api
 --platform linux/arm64 maximhq/bifrost
 --platform linux/arm64 imaegoo/twikoo
 --platform linux/arm64 vaultwarden/server
