@@ -1,5 +1,5 @@
---platform linux/arm64 maximhq/bifrost
 --platform linux/arm64 imaegoo/twikoo
+--platform linux/arm64 maximhq/bifrost
 --platform linux/arm64 vaultwarden/server
 --platform linux/arm64 openlistteam/openlist
 --platform linux/arm64 fatedier/frpc:v0.63.0
